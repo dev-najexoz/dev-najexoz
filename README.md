@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋! I'm Muhammed Najah P <br> A Developer & Designer from Kerala, India</h1>
 
 ###
-
+<div align="center">
+<img height="30" width="100" src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdev-najexoz"/>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-najexoz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-najexoz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
